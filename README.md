@@ -10,13 +10,13 @@ This is a responsive landing page for a beauty product brand named Luxe Beauty. 
 - Add to cart buttons (UI only)
 - Clean and modern layout
 
-Tech Stack
-HTML
-TypeScript
-Tailwind CSS
-PostCSS
-Vite
-ESLint
-Git
-NPM
+Tech Stack:
+  HTML,
+  TypeScript,
+  Tailwind CSS,
+  PostCSS,
+  Vite,
+  ESLint,
+  Git,
+  NPM,
 
